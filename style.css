@@ -14,12 +14,13 @@ h1 {
 }
 
 input {
-    height: 50px;
+    height: 40px;
     border: 2px solid  #ffa200;
     background-color: #333;
     color: #eee;
     outline: none;
-    width: 70%;
+    width: 50%;
+    margin-left: 55px;
 }
 
 
@@ -27,8 +28,8 @@ button {
     background-color:  #ffa200;
     color: #fff;
     border:none;
-    width: 130px;
-    height: 55px;
+    width: 100px;
+    height: 40px;
     transition: 0.5s;
     font-size: 15px;
     font-weight: bold;
